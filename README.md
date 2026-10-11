@@ -54,9 +54,9 @@ python job_tracker.py
 
 1. Unzip the folder
 2. Open File Explorer → navigate into the job_tracker folder
-3. Click the address bar at the top → type cmd → press Enter
+3. Click the address bar at the top → type `cmd` → press Enter
     -> This opens a terminal already pointed at that folder
-4. Type: python job_tracker.py → press Enter
+4. Type: `python job_tracker.py` → press Enter
 5. The report prints right there in the terminal window
 
 
